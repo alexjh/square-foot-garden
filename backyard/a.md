@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td rowspan="4">Cucumber</td>
+    <td colspan="4">Cucumber</td>
   </tr>
   <tr>
     <td>Dill</td>
